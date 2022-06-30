@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @imferrer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-imferrer/imferrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Data Scientist with 10 years working experience as a structural engineering. I am trained in Python, Pandas, Scikit-learn and Keras/Tensorflow for predictive modeling.
+Focus on applying machine learning to solving industrial problems with particular interest in the transition into renewable energies"
